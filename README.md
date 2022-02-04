@@ -1,4 +1,4 @@
-## Code for Monopsony Experiments on MTurk
+## Code for One-Stage Monopsony Experiments on MTurk
 
 This repo contains code from an image-tagging task in which workers, after completing one instance of the task, were offered a randomized wage to tag a set number of additional images. The general framework, though, should be easily adaptable to any type of HIT wherein users are offered a wage (which we pay via the "bonus" feature of the MTurk API) for additional tasks.
 
